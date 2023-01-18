@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Morphat
-- 👀 I’m interested in java, web development and python 
-- 🌱 I’m currently learning lossless data comprension algorithim
+- 👀 I’m interested in java (Spring Boot) and JavaScript(React )
+- 🌱 I’m currently reading more on Spring framework
 - 💞️ I’m looking to collaborate on a project either in java, python or webdesign
 - 📫 reach me on morphatkip@gmail.com
 
